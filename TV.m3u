@@ -2,4 +2,13 @@
 https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8
 #EXTINF:-1,Voa Farsi
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-
+#EXTINF:-1,Voa Farsi
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,4U
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1,4U Family
+https://familyhls.4utv.live/hls/stream.m3u8
+#EXTINF:-1,Fx 1
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,FX 2
+https://toonixhls.wns.live/hls/stream.m3u8
