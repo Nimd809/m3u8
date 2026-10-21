@@ -35,7 +35,7 @@ https://spf-onetv-9i4j.cfdidit.workers.dev/?url=https://ca-rt.onetv.app/T2Intern
 #EXTINF:-1,T2 America
 https://spf-onetv-9i4j.cfdidit.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
 #EXTINF:-1,T2 TV
-https://spf-onetv-9i4j.cfdidit.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
+https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1,RJ TV
 https://radio2.sr-api.ir/hls/stream.m3u8
 #EXTINF:-1,Pmc
