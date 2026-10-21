@@ -2,7 +2,7 @@
 https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8
 #EXTINF:-1,Voa Farsi
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:-1,Voa Farsi
+#EXTINF:-1,BBC News
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1,4U
 https://hls.4utv.live/hls/stream.m3u8
@@ -12,3 +12,148 @@ https://familyhls.4utv.live/hls/stream.m3u8
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1,FX 2
 https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Ava Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1,Ava Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Mbc Persia
+https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:-1,Iran Film
+https://ifilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Iran Comedy
+https://irnamahls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Aparat Music
+https://live.cdn.asset.aparat.com/74df0865577334ffd3f6577bec0b9222/eventhls/AparatMusic_ueis1zz_720p/index.m3u8
+#EXTINF:-1,Navahang
+https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1,Avang
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1,Afn Music
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1,T2 Intertational
+https://spf-onetv-9i4j.cfdidit.workers.dev/?url=https://ca-rt.onetv.app/T2International/index-0.m3u8
+#EXTINF:-1,T2 America
+https://spf-onetv-9i4j.cfdidit.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
+#EXTINF:-1,T2 TV
+https://spf-onetv-9i4j.cfdidit.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
+#EXTINF:-1,RJ TV
+https://radio2.sr-api.ir/hls/stream.m3u8
+#EXTINF:-1,Pmc
+https://pmchls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Pmc Royal
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Pmc Select
+https://s5.radio.co/sf0a1af54c/listen
+#EXTINF:-1,Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Rap
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Podcast
+https://podhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Setmix
+https://setmixhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana 4kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Folk
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana +
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Series
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Teen
+https://hls.tmtv.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana China
+https://chinahls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Turkey
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Reality
+https://realhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Global
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Voyage
+https://voyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Ekran Movies
+https://spf-onetv-9i4j.cfdidit.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+#EXTINF:-1,Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1,Ravi TV
+https://hls.ravitv.com/hls/stream.m3u8
+#EXTINF:-1,Tapesh Movies
+https://spf-onetv-9i4j.cfdidit.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
+#EXTINF:-1,Tapesh Iran
+https://iptv.tapesh.tv/tapeshiran/playlist_low/index.m3u8
+#EXTINF:-1,Zed TV
+https://zedhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Romantico TV
+https://live.livestreamtv.ca/romanticotvshow/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Didaniha
+https://932y493eljv8-hls-live.5centscdn.com/did/a5a78758611d40a8beef13f803dd816b.sdp/playlist.m3u8
+#EXTINF:-1,Home +
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Icc +
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Shabakeh 7
+https://sh7hls.wns.live/hls/stream.m3u8
+#EXTINF:-1,SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1,SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Net TV
+https://nethls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Mtc
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Tapesh
+https://hls.tapeshtv.live/hls/stream.m3u8
+#EXTINF:-1,Youre Time
+https://live.yourtime.tv/hls/stream.m3u8
+#EXTINF:-1,Oxir TV
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1,Gold star TV
+https://moviethls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Ronix TV
+https://ronhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Cinex
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Kanal e jadid
+https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Farsi TV
+https://panel.farsitv.us:19360/farsitvlive/720p.m3u8
+#EXTINF:-1,Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Meta Film
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Datis TV
+https://dathls.wns.live/hls/stream.m3u8
+#EXTINF:-1,247 box TV
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1,Royal TV
+https://arvhls.wns.live/hls/stream.m3u8
+
